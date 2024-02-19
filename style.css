@@ -1,0 +1,32 @@
+.baanner-section{
+   background-image: url(pana.png);
+   margin: 50px 140px;
+   background-repeat: no-repeat;
+}
+.header-section{
+    padding: 200px 330px 170px 330px;
+    
+   
+    
+}
+.happy-new-year , .celebration{
+    color: white;
+    text-align: center;
+    font-weight: 900px;
+   
+   
+}
+.offer{
+    text-align: center;
+}
+
+.banner-two{
+    background-image: url(Vector.png);
+    margin: 50px 140px;
+    background-repeat: no-repeat;
+    background-size: 1060px;
+
+}
+.banner-value{
+    padding: 125px 550px 300px 125px;  
+}
