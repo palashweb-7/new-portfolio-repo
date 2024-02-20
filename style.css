@@ -59,3 +59,37 @@ h1{
     
     gap: 100px;
 }
+
+.stutas{
+    text-align:center;
+    padding: 50px 140px;
+ }
+ .stutas-value{
+    padding: 50px 650px 50px 140px;
+}
+
+.photo-google{
+    background-image: url(rack-two\ -\ Copy.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    margin: 50px 140px;
+    background-position: right;
+
+}
+
+.photo-set{
+  padding: ;
+}
+.box-photo{
+    width: 300px;
+    margin-top:50px;
+   
+}
+.box-photo-two{
+    width: 200px;
+    padding-left: 270px;
+   
+}
+.red-line{
+    margin-bottom: -5%;
+}
